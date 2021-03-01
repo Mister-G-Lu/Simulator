@@ -1,4 +1,3 @@
 Goodwin Lu
-glu8
-G01053764
-Lecture: DL2
+
+Simulates various elements (Sand, Water, Metal, Empty and Steam) in a Sandbox type simulation with GUI. Enjoy!
